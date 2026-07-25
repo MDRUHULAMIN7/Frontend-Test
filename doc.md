@@ -288,7 +288,7 @@ MiniShop-এ আরেকটা function বানাও — `calculateCartTotal
 ### Hour 1: Philosophy + প্রথম Component
 
 React Testing Library-এর মূল কথা: **implementation না, behavior test করো।** মানে "state variable কী আছে" সেটা না দেখে "screen-এ user কী দেখছে" সেটা check করো।
-
+z
 `src/minishop/ProductCard.tsx` বানাও:
 
 ```tsx
